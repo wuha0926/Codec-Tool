@@ -44,4 +44,6 @@
 
 3. 选择相应的编码或解码功能，输入内容并处理
 
+<img width="1324" height="821" alt="image" src="https://github.com/user-attachments/assets/04d46708-19e0-4985-93f4-c83c0c75773a" />
+
 SM3有问题，懒得搞了，自用，如有bug自己想办法吧
